@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Mugudhan",
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "B.Com",
+        "id": "0"
+    },
+    {
+        "name": "Sarath kumar",
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "BSC",
+        "id": "1"
+    },
+    {
+        "name": "Roshini",
+        "gender": "female",
+        "batch": "B45WD",
+        "qualification": "BSC",
+        "id": "2"
+    },
+    {
+        "name": "Mohan kumar",
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "B.E-Mech",
+        "id": "3"
+    },
+    {
+        "name": "Nalapriya",
+        "gender": "female",
+        "batch": "B45WD",
+        "qualification": "BCA",
+        "id": "4"
+    },
+    {
+        "name": "Manivel",
+        "gender": "male",
+        "batch": "B45WD",
+        "qualification": "B.E-Mech",
+        "id": "5"
+    },
+    {
+        "name": "Wasim",
+        "batch": "B45WD",
+        "gender": "Male",
+        "qualification": "B.E.MECH",
+        "id": "6"
+    },
+    {
+        "name": "Sabari",
+        "batch": "B45WD",
+        "gender": "Male",
+        "qualification": "BE-MECH",
+        "id": "7"
+    },
+    {
+        "name": "Deepika",
+        "batch": "B45WD",
+        "gender": "Female",
+        "qualification": "BE-Bio-Medical",
+        "id": "8"
+    },
+    {
+        "name": "Madhan",
+        "batch": "B45WD",
+        "gender": "Male",
+        "qualification": "BE-Mech",
+        "id": "9"
+    },
+    {
+        "name": "Sudharshan",
+        "batch": "B45WD",
+        "gender": "Male",
+        "qualification": "BE-Mech",
+        "id": "10"
+    },
+    {
+        "name": "Giri shankar",
+        "batch": "B45WD",
+        "gender": "Male",
+        "qualification": "BE-MECH",
+        "id": "11"
+    }
+]
